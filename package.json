@@ -1,0 +1,25 @@
+{
+  "name": "slush-mean",
+  "version": "0.1.0",
+  "description": "Generate a simple web project using M.E.A.N. stack",
+  "main": "slushfile.js",
+  "keywords": [
+    "slushgenerator",
+    "mean",
+    "express",
+    "mongo",
+    "node",
+    "angular"
+  ],
+  "dependencies": {
+    "gulp": "~3.5.6",
+    "gulp-template": "~0.1.1",
+    "gulp-install": "~0.1.1",
+    "gulp-conflict": "~0.1.1",
+    "gulp-rename": "~1.2.0",
+    "underscore.string": "~2.3.3",
+    "inquirer": "~0.4.1"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
